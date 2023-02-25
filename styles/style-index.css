@@ -158,23 +158,23 @@ footer{
         padding: 10%;
     }
 
-    .cabecalho_links {
+    .menu_links {
         justify-content: center;
     }
     
-    .apresentacao {
+    .presentation {
         flex-direction: column-reverse;
         padding: 10%;
     }
 
-    .apresentacao__conteudo{
+    .presentation_content{
         width: 100%;
     }
 
-    .rodape_img {
+    .footer_img {
         width: 25%;
     }
-    .apresentacao__links__navegacao{
+    .presentation_links_navigation{
         font-size: 0.8rem;
     }
 
@@ -183,7 +183,7 @@ footer{
         font-size: 0.8rem;
     }
 
-    .apresentacao__img{
+    .presentation_img{
         width: 55%;
     }
 }
